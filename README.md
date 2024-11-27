@@ -1,4 +1,4 @@
-# Dream-Vite
+# Dream-WS
 
 Dream-Vite is an AI image generation interface that allows users to create images from text descriptions. It features:
 
@@ -9,6 +9,14 @@ Dream-Vite is an AI image generation interface that allows users to create image
 - 🎨 Integration with ComfyUI backend for image processing
 
 The app provides an intuitive interface for turning your creative ideas into images, whether typed or spoken, making AI image generation accessible and user-friendly.
+
+## Testing Postman WS
+
+https://github.com/user-attachments/assets/76bc0cdc-5bda-40e8-9a77-b2a1905ba34d
+
+## Testing Dream-WS
+
+https://github.com/user-attachments/assets/5853c97d-def0-4389-a051-159af352ae60
 
 ## 🚀 Example Workflow
 
